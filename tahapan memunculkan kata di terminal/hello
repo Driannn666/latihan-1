@@ -1,0 +1,5 @@
+## deskripsi latihan 1
+  - buka terminal/cmd
+  - ketik python(jika menggunakan windows) atau pythone3 (jika menggunakan linux)
+  - setelah otu ketik print("hello") lalu tekan ENTER pada keyboard
+  - maka terminal akan menampilkan teks "hello"
